@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Carreer path overview - Container 1">cf79e9f74f9cd34003abc4b18110c7ea</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-22 07:58:51</sys_created_on>
+        <sys_id>00896d7b4f9cd34003abc4b18110c7f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="[GVS] Career Path" source="x_52098_gvs_career">ddf621734f5cd34003abc4b18110c7c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Career Path">ddf621734f5cd34003abc4b18110c7c9</sys_scope>
+        <sys_update_name>sp_row_00896d7b4f9cd34003abc4b18110c7f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-22 07:58:51</sys_updated_on>
+    </sp_row>
+</record_update>
